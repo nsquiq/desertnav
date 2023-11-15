@@ -49,9 +49,14 @@ import com.example.cupcake.ui.OrderViewModel
 import com.example.cupcake.ui.SelectOptionScreen
 import com.example.cupcake.ui.StartOrderScreen
 
+
+
 /**
  * Composable that displays the topBar and displays back button if back navigation is possible.
  */
+
+
+
 @Composable
 fun CupcakeAppBar(
     currentScreen: CupcakeScreen,
